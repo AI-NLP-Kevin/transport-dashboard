@@ -28,3 +28,5 @@ pip install -r requirements.txt
 # Run the dashboard
 streamlit run multi_country_dashboard.py
 
+📄 [Full Report in Markdown](Transport_Report_Markdown.md)
+
