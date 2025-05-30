@@ -1,4 +1,4 @@
-# 🌍 Global Transport Trends Dashboard
+#  Global Transport Trends Dashboard
 
 An interactive Streamlit dashboard for exploring **international passenger and freight transport data** across Canada, USA, Germany, Singapore, Japan, and the UK.
 
@@ -9,7 +9,7 @@ Each country-indicator pair includes:
 
 ---
 
-## 📦 Features
+## Features
 
 - Multi-country + multi-indicator support
 - Auto-detected yearly trends
@@ -19,7 +19,7 @@ Each country-indicator pair includes:
 
 ---
 
-## 🚀 Run Locally
+##  Run Locally
 
 ```bash
 # Install dependencies
